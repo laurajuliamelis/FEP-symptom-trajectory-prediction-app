@@ -9,13 +9,13 @@ This project is part of the FarmaPRED-PEP study, developed by the University of 
 
 The models implemented in this application were developed using data from the PEPS cohort and externally validated in the PAFIP cohort. They predict subgroup membership for longitudinal positive and negative symptom trajectories over one year of follow-up.
 
-The study protocol can be found in the [STUDY PROTOCOL article](https://doi.org/10.3389/fpsyt.2024.1497565). More details about the development and external validation of the symptom trajectory prediction models can be found in the [RESEARCH article in prepration](http://www.google.com/).
+The study protocol can be found in the [STUDY PROTOCOL article](https://doi.org/10.3389/fpsyt.2024.1497565). More details about the development and external validation of the symptom trajectory prediction models can be found in the [RESEARCH article in preparation](http://www.google.com/).
 
 ## 🔧 Usage
 
 You can access and use the application online at the following link:
 
-👉 [https://farmapred-pep.shinyapps.io/predictECR/](https://farmapred-pep.shinyapps.io/predictECR/)
+👉 [TO DO](https://farmapred-pep.shinyapps.io/predictECR/)
 
 No installation is required. Simply open the link in your web browser.
 
