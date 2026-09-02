@@ -26,8 +26,8 @@ No installation is required. Simply open the link in your web browser.
 For feedback, questions, or collaboration, please contact:
 
 **Sergi Mas Herrero**  
-Accredited Researcher · Fundació Clínic-IDIBAPS␣␣  
-Associate Professor · University of Barcelona␣␣  
+Accredited Researcher · Fundació Clínic-IDIBAPS 
+Professor · University of Barcelona
 📧 sergimash@ub.edu
 
 and 
