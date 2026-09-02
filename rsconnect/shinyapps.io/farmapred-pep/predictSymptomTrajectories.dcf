@@ -1,0 +1,10 @@
+name: predictSymptomTrajectories
+title:
+username: farmapred-pep
+account: farmapred-pep
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17798871
+bundleId: 12496707
+url: https://farmapred-pep.shinyapps.io/predictSymptomTrajectories/
+version: 1
