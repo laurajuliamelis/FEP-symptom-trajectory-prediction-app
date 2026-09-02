@@ -15,7 +15,7 @@ The study protocol can be found in the [STUDY PROTOCOL article](https://doi.org/
 
 You can access and use the application online at the following link:
 
-👉 [TO DO](https://farmapred-pep.shinyapps.io/predictECR/)
+👉 [Shinny application](https://farmapred-pep.shinyapps.io/predictSymptomTrajectories/)
 
 No installation is required. Simply open the link in your web browser.
 
